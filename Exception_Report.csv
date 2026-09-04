@@ -1,0 +1,3 @@
+"TransactionID","Amount","Date","MerchantID","Reason"
+"T003","700","2026-08-21","M101","Missing Settlement"
+"T004","900","2026-08-21","M103","Amount Mismatch"
